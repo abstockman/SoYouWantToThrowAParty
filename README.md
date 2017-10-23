@@ -1,0 +1,2 @@
+# SoYouWantToThrowAParty
+Party planning app.
